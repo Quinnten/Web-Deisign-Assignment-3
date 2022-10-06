@@ -1,0 +1,16 @@
+SongList, Song, Title, Artist, Release_Year, Genres, Genre{
+  display: block;
+}
+
+Title {
+  font-size: 36px;
+  width: 100%;
+  background-color: grey;
+}
+Artist, Release_Year, Genres {
+  font-size: 24px;
+}
+
+Genre {
+  font-size: 18px;
+}
